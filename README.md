@@ -26,7 +26,7 @@
 Running this program in any of the standard 3 modes outputs a csv file of the form: ```Test File, Best Training Match, Perplexity, N ```
 
 ## Dependency
-The assignment's training data can be found in [data/train](data/train) and the development data can be found in [data/dev](data/dev).
+The training data can be found in [data/train](data/train) and the development data can be found in [data/dev](data/dev).
 
 
 ## Introduction
